@@ -1,0 +1,1110 @@
+{
+	"users": {
+		"user_id_1": {
+			"id": "user_id_1",
+			"adresse": "User address 1",
+			"age": 25,
+			"description": "User description 1",
+			"email": "user1@example.com",
+			"filiere": "Computer Science",
+			"nom": "User last name 1",
+			"password": "password123",
+			"prenom": "User first name 1",
+			"role": "prof",
+			"tel": "123456789"
+		},
+		"user_id_2": {
+			"id": "user_id_2",
+			"adresse": "User address 2",
+			"age": 20,
+			"description": "User description 2",
+			"email": "user2@example.com",
+			"filiere": "Engineering",
+			"nom": "User last name 2",
+			"password": "password456",
+			"prenom": "User first name 2",
+			"role": "etudiant",
+			"tel": "987654321"
+		},
+		"user_id_3": {
+			"id": "user_id_3",
+			"adresse": "User address 3",
+			"age": 22,
+			"description": "User description 3",
+			"email": "user3@example.com",
+			"filiere": "Physics",
+			"nom": "User last name 3",
+			"password": "password789",
+			"prenom": "User first name 3",
+			"role": "etudiant",
+			"tel": "654321987"
+		},
+		"user_id_4": {
+			"id": "user_id_4",
+			"adresse": "User address 4",
+			"age": 23,
+			"description": "User description 4",
+			"email": "user4@example.com",
+			"filiere": "Chemistry",
+			"nom": "User last name 4",
+			"password": "passwordabc",
+			"prenom": "User first name 4",
+			"role": "prof",
+			"tel": "123987456"
+		},
+		"user_id_5": {
+			"id": "user_id_5",
+			"adresse": "User address 5",
+			"age": 24,
+			"description": "User description 5",
+			"email": "user5@example.com",
+			"filiere": "Mathematics",
+			"nom": "User last name 5",
+			"password": "passwordxyz",
+			"prenom": "User first name 5",
+			"role": "admin",
+			"tel": "789456123"
+		},
+		"user_id_6": {
+			"id": "user_id_6",
+			"adresse": "User address 6",
+			"age": 21,
+			"description": "User description 6",
+			"email": "user6@example.com",
+			"filiere": "Computer Engineering",
+			"nom": "User last name 6",
+			"password": "password123",
+			"prenom": "User first name 6",
+			"role": "prof",
+			"tel": "654987321"
+		},
+		"user_id_7": {
+			"id": "user_id_7",
+			"adresse": "User address 7",
+			"age": 26,
+			"description": "User description 7",
+			"email": "user7@example.com",
+			"filiere": "Electrical Engineering",
+			"nom": "User last name 7",
+			"password": "password456",
+			"prenom": "User first name 7",
+			"role": "etudiant",
+			"tel": "987321654"
+		},
+		"user_id_8": {
+			"id": "user_id_8",
+			"adresse": "User address 8",
+			"age": 27,
+			"description": "User description 8",
+			"email": "user8@example.com",
+			"filiere": "Physics",
+			"nom": "User last name 8",
+			"password": "password789",
+			"prenom": "User first name 8",
+			"role": "prof",
+			"tel": "456123789"
+		},
+		"user_id_9": {
+			"id": "user_id_9",
+			"adresse": "User address 9",
+			"age": 23,
+			"description": "User description 9",
+			"email": "user9@example.com",
+			"filiere": "Computer Science",
+			"nom": "User last name 9",
+			"password": "passwordabc",
+			"prenom": "User first name 9",
+			"role": "admin",
+			"tel": "321654987"
+		},
+		"user_id_10": {
+			"id": "user_id_10",
+			"adresse": "User address 10",
+			"age": 24,
+			"description": "User description 10",
+			"email": "user10@example.com",
+			"filiere": "Mathematics",
+			"nom": "User last name 10",
+			"password": "passwordxyz",
+			"prenom": "User first name 10",
+			"role": "etudiant",
+			"tel": "654987321"
+		},
+		"user_id_11": {
+			"id": "user_id_11",
+			"adresse": "User address 11",
+			"age": 22,
+			"description": "User description 11",
+			"email": "user11@example.com",
+			"filiere": "Chemistry",
+			"nom": "User last name 11",
+			"password": "password123",
+			"prenom": "User first name 11",
+			"role": "prof",
+			"tel": "987321654"
+		},
+		"user_id_12": {
+			"id": "user_id_12",
+			"adresse": "User address 12",
+			"age": 27,
+			"description": "User description 12",
+			"email": "user12@example.com",
+			"filiere": "Computer Engineering",
+			"nom": "User last name 12",
+			"password": "password456",
+			"prenom": "User first name 12",
+			"role": "admin",
+			"tel": "321654987"
+		},
+		"user_id_13": {
+			"id": "user_id_13",
+			"adresse": "User address 13",
+			"age": 28,
+			"description": "User description 13",
+			"email": "user13@example.com",
+			"filiere": "Electrical Engineering",
+			"nom": "User last name 13",
+			"password": "password789",
+			"prenom": "User first name 13",
+			"role": "etudiant",
+			"tel": "654987321"
+		},
+		"user_id_14": {
+			"id": "user_id_14",
+			"adresse": "User address 14",
+			"age": 30,
+			"description": "User description 14",
+			"email": "user14@example.com",
+			"filiere": "Physics",
+			"nom": "User last name 14",
+			"password": "passwordabc",
+			"prenom": "User first name 14",
+			"role": "prof",
+			"tel": "987321654"
+		},
+		"user_id_15": {
+			"id": "user_id_15",
+			"adresse": "User address 15",
+			"age": 26,
+			"description": "User description 15",
+			"email": "user15@example.com",
+			"filiere": "Computer Science",
+			"nom": "User last name 15",
+			"password": "passwordxyz",
+			"prenom": "User first name 15",
+			"role": "admin",
+			"tel": "321654987"
+		},
+		"user_id_16": {
+			"id": "user_id_16",
+			"adresse": "User address 16",
+			"age": 22,
+			"description": "User description 16",
+			"email": "user16@example.com",
+			"filiere": "Mathematics",
+			"nom": "User last name 16",
+			"password": "password123",
+			"prenom": "User first name 16",
+			"role": "etudiant",
+			"tel": "987321654"
+		},
+		"user_id_17": {
+			"id": "user_id_17",
+			"adresse": "User address 17",
+			"age": 29,
+			"description": "User description 17",
+			"email": "user17@example.com",
+			"filiere": "Engineering",
+			"nom": "User last name 17",
+			"password": "password456",
+			"prenom": "User first name 17",
+			"role": "prof",
+			"tel": "321654987"
+		},
+		"user_id_18": {
+			"id": "user_id_18",
+			"adresse": "User address 18",
+			"age": 25,
+			"description": "User description 18",
+			"email": "user18@example.com",
+			"filiere": "Computer Engineering",
+			"nom": "User last name 18",
+			"password": "password789",
+			"prenom": "User first name 18",
+			"role": "admin",
+			"tel": "654987321"
+		},
+		"user_id_19": {
+			"id": "user_id_19",
+			"adresse": "User address 19",
+			"age": 27,
+			"description": "User description 19",
+			"email": "user19@example.com",
+			"filiere": "Electrical Engineering",
+			"nom": "User last name 19",
+			"password": "passwordabc",
+			"prenom": "User first name 19",
+			"role": "etudiant",
+			"tel": "987321654"
+		},
+		"user_id_20": {
+			"id": "user_id_20",
+			"adresse": "User address 20",
+			"age": 23,
+			"description": "User description 20",
+			"email": "user20@example.com",
+			"filiere": "Physics",
+			"nom": "User last name 20",
+			"password": "passwordxyz",
+			"prenom": "User first name 20",
+			"role": "prof",
+			"tel": "321654987"
+		}
+	},
+	"cours": {
+		"cours_id_1": {
+			"id": "cours_id_1",
+			"nom": "Mathematics",
+			"user_id": "user_id_1"
+		},
+		"cours_id_2": {
+			"id": "cours_id_2",
+			"nom": "Physics",
+			"user_id": "user_id_1"
+		},
+		"cours_id_3": {
+			"id": "cours_id_3",
+			"nom": "Chemistry",
+			"user_id": "user_id_4"
+		},
+		"cours_id_4": {
+			"id": "cours_id_4",
+			"nom": "Biology",
+			"user_id": "user_id_6"
+		},
+		"cours_id_5": {
+			"id": "cours_id_5",
+			"nom": "Computer Science",
+			"user_id": "user_id_8"
+		},
+		"cours_id_6": {
+			"id": "cours_id_6",
+			"nom": "Engineering",
+			"user_id": "user_id_11"
+		},
+		"cours_id_7": {
+			"id": "cours_id_7",
+			"nom": "Literature",
+			"user_id": "user_id_13"
+		},
+		"cours_id_8": {
+			"id": "cours_id_8",
+			"nom": "History",
+			"user_id": "user_id_15"
+		},
+		"cours_id_9": {
+			"id": "cours_id_9",
+			"nom": "Geography",
+			"user_id": "user_id_17"
+		},
+		"cours_id_10": {
+			"id": "cours_id_10",
+			"nom": "Economics",
+			"user_id": "user_id_19"
+		},
+		"cours_id_11": {
+			"id": "cours_id_11",
+			"nom": "Political Science",
+			"user_id": "user_id_20"
+		},
+		"cours_id_12": {
+			"id": "cours_id_12",
+			"nom": "Art",
+			"user_id": "user_id_3"
+		},
+		"cours_id_13": {
+			"id": "cours_id_13",
+			"nom": "Music",
+			"user_id": "user_id_5"
+		},
+		"cours_id_14": {
+			"id": "cours_id_14",
+			"nom": "Philosophy",
+			"user_id": "user_id_7"
+		},
+		"cours_id_15": {
+			"id": "cours_id_15",
+			"nom": "Psychology",
+			"user_id": "user_id_9"
+		},
+		"cours_id_16": {
+			"id": "cours_id_16",
+			"nom": "Sociology",
+			"user_id": "user_id_10"
+		},
+		"cours_id_17": {
+			"id": "cours_id_17",
+			"nom": "Anthropology",
+			"user_id": "user_id_12"
+		},
+		"cours_id_18": {
+			"id": "cours_id_18",
+			"nom": "Environmental Science",
+			"user_id": "user_id_14"
+		},
+		"cours_id_19": {
+			"id": "cours_id_19",
+			"nom": "Health Sciences",
+			"user_id": "user_id_16"
+		},
+		"cours_id_20": {
+			"id": "cours_id_20",
+			"nom": "Business Administration",
+			"user_id": "user_id_18"
+		}
+	},
+	"seances": {
+		"seance_id_1": {
+			"id": "seance_id_1",
+			"date_debut": "2024-03-31T08:00:00",
+			"date_fin": "2024-03-31T10:00:00",
+			"date_sceance": "2024-03-31",
+			"cours": {
+				"id": "cours_id_1",
+				"nom": "Mathematics",
+				"user_id": "user_id_1"
+			}
+		},
+		"seance_id_2": {
+			"id": "seance_id_2",
+			"date_debut": "2024-04-01T09:00:00",
+			"date_fin": "2024-04-01T11:00:00",
+			"date_sceance": "2024-04-01",
+			"cours": {
+				"id": "cours_id_2",
+				"nom": "Physics",
+				"user_id": "user_id_1"
+			}
+		},
+		"seance_id_3": {
+			"id": "seance_id_3",
+			"date_debut": "2024-04-02T10:00:00",
+			"date_fin": "2024-04-02T12:00:00",
+			"date_sceance": "2024-04-02",
+			"cours": {
+				"id": "cours_id_3",
+				"nom": "Chemistry",
+				"user_id": "user_id_4"
+			}
+		},
+		"seance_id_4": {
+			"id": "seance_id_4",
+			"date_debut": "2024-04-03T11:00:00",
+			"date_fin": "2024-04-03T13:00:00",
+			"date_sceance": "2024-04-03",
+			"cours": {
+				"id": "cours_id_4",
+				"nom": "Biology",
+				"user_id": "user_id_6"
+			}
+		},
+		"seance_id_5": {
+			"id": "seance_id_5",
+			"date_debut": "2024-04-04T12:00:00",
+			"date_fin": "2024-04-04T14:00:00",
+			"date_sceance": "2024-04-04",
+			"cours": {
+				"id": "cours_id_5",
+				"nom": "Computer Science",
+				"user_id": "user_id_8"
+			}
+		},
+		"seance_id_6": {
+			"id": "seance_id_6",
+			"date_debut": "2024-04-05T13:00:00",
+			"date_fin": "2024-04-05T15:00:00",
+			"date_sceance": "2024-04-05",
+			"cours": {
+				"id": "cours_id_6",
+				"nom": "Engineering",
+				"user_id": "user_id_11"
+			}
+		},
+		"seance_id_7": {
+			"id": "seance_id_7",
+			"date_debut": "2024-04-06T14:00:00",
+			"date_fin": "2024-04-06T16:00:00",
+			"date_sceance": "2024-04-06",
+			"cours": {
+				"id": "cours_id_7",
+				"nom": "Literature",
+				"user_id": "user_id_13"
+			}
+		},
+		"seance_id_8": {
+			"id": "seance_id_8",
+			"date_debut": "2024-04-07T15:00:00",
+			"date_fin": "2024-04-07T17:00:00",
+			"date_sceance": "2024-04-07",
+			"cours": {
+				"id": "cours_id_8",
+				"nom": "History",
+				"user_id": "user_id_15"
+			}
+		},
+		"seance_id_9": {
+			"id": "seance_id_9",
+			"date_debut": "2024-04-08T16:00:00",
+			"date_fin": "2024-04-08T18:00:00",
+			"date_sceance": "2024-04-08",
+			"cours": {
+				"id": "cours_id_9",
+				"nom": "Geography",
+				"user_id": "user_id_17"
+			}
+		},
+		"seance_id_10": {
+			"id": "seance_id_10",
+			"date_debut": "2024-04-09T17:00:00",
+			"date_fin": "2024-04-09T19:00:00",
+			"date_sceance": "2024-04-09",
+			"cours": {
+				"id": "cours_id_10",
+				"nom": "Economics",
+				"user_id": "user_id_19"
+			}
+		},
+		"seance_id_11": {
+			"id": "seance_id_11",
+			"date_debut": "2024-04-10T18:00:00",
+			"date_fin": "2024-04-10T20:00:00",
+			"date_sceance": "2024-04-10",
+			"cours": {
+				"id": "cours_id_11",
+				"nom": "Political Science",
+				"user_id": "user_id_20"
+			}
+		},
+		"seance_id_12": {
+			"id": "seance_id_12",
+			"date_debut": "2024-04-11T19:00:00",
+			"date_fin": "2024-04-11T21:00:00",
+			"date_sceance": "2024-04-11",
+			"cours": {
+				"id": "cours_id_12",
+				"nom": "Art",
+				"user_id": "user_id_3"
+			}
+		},
+		"seance_id_13": {
+			"id": "seance_id_13",
+			"date_debut": "2024-04-12T20:00:00",
+			"date_fin": "2024-04-12T22:00:00",
+			"date_sceance": "2024-04-12",
+			"cours": {
+				"id": "cours_id_13",
+				"nom": "Music",
+				"user_id": "user_id_5"
+			}
+		},
+		"seance_id_14": {
+			"id": "seance_id_14",
+			"date_debut": "2024-04-13T21:00:00",
+			"date_fin": "2024-04-13T23:00:00",
+			"date_sceance": "2024-04-13",
+			"cours": {
+				"id": "cours_id_14",
+				"nom": "Physical Education",
+				"user_id": "user_id_7"
+			}
+		},
+		"seance_id_15": {
+			"id": "seance_id_15",
+			"date_debut": "2024-04-14T22:00:00",
+			"date_fin": "2024-04-15T00:00:00",
+			"date_sceance": "2024-04-14",
+			"cours": {
+				"id": "cours_id_15",
+				"nom": "Psychology",
+				"user_id": "user_id_9"
+			}
+		},
+		"seance_id_16": {
+			"id": "seance_id_16",
+			"date_debut": "2024-04-15T23:00:00",
+			"date_fin": "2024-04-16T01:00:00",
+			"date_sceance": "2024-04-15",
+			"cours": {
+				"id": "cours_id_16",
+				"nom": "Sociology",
+				"user_id": "user_id_10"
+			}
+		},
+		"seance_id_17": {
+			"id": "seance_id_17",
+			"date_debut": "2024-04-16T00:00:00",
+			"date_fin": "2024-04-16T02:00:00",
+			"date_sceance": "2024-04-16",
+			"cours": {
+				"id": "cours_id_17",
+				"nom": "Anthropology",
+				"user_id": "user_id_12"
+			}
+		},
+		"seance_id_18": {
+			"id": "seance_id_18",
+			"date_debut": "2024-04-17T01:00:00",
+			"date_fin": "2024-04-17T03:00:00",
+			"date_sceance": "2024-04-17",
+			"cours": {
+				"id": "cours_id_18",
+				"nom": "Philosophy",
+				"user_id": "user_id_14"
+			}
+		},
+		"seance_id_19": {
+			"id": "seance_id_19",
+			"date_debut": "2024-04-18T02:00:00",
+			"date_fin": "2024-04-18T04:00:00",
+			"date_sceance": "2024-04-18",
+			"cours": {
+				"id": "cours_id_19",
+				"nom": "Languages",
+				"user_id": "user_id_16"
+			}
+		},
+		"seance_id_20": {
+			"id": "seance_id_20",
+			"date_debut": "2024-04-19T03:00:00",
+			"date_fin": "2024-04-19T05:00:00",
+			"date_sceance": "2024-04-19",
+			"cours": {
+				"id": "cours_id_20",
+				"nom": "Statistics",
+				"user_id": "user_id_18"
+			}
+		}
+	},
+	"absences": {
+		"absence_id_1": {
+			"id": "absence_id_1",
+			"date_absence": "2024-04-01",
+			"justification": "Absent due to illness",
+			"user": {
+				"id": "user_id_2",
+				"prenom": "User first name 2",
+				"nom": "User last name 2",
+				"filiere": "Electrical Engineering",
+				"email": "user2@example.com",
+				"age": 25
+			},
+			"sceance": {
+				"id": "seance_id_1",
+				"date_debut": "2024-03-31T08:00:00",
+				"date_fin": "2024-03-31T10:00:00",
+				"date_sceance": "2024-03-31",
+				"cours": {
+					"id": "cours_id_1",
+					"nom": "Mathematics",
+					"user_id": "user_id_1"
+				}
+			},
+			"cours_id": "cours_id_1",
+			"status": "Justifié"
+		},
+		"absence_id_2": {
+			"id": "absence_id_2",
+			"date_absence": "2024-04-02",
+			"justification": "Absent due to family emergency",
+			"user": {
+				"id": "user_id_3",
+				"prenom": "User first name 3",
+				"nom": "User last name 3",
+				"filiere": "Mechanical Engineering",
+				"email": "user3@example.com",
+				"age": 29
+			},
+			"sceance": {
+				"id": "seance_id_2",
+				"date_debut": "2024-04-01T09:00:00",
+				"date_fin": "2024-04-01T11:00:00",
+				"date_sceance": "2024-04-01",
+				"cours": {
+					"id": "cours_id_2",
+					"nom": "Physics",
+					"user_id": "user_id_1"
+				}
+			},
+			"cours_id": "cours_id_2",
+			"status": "Non Justifié"
+		},
+		"absence_id_3": {
+			"id": "absence_id_3",
+			"date_absence": "2024-04-03",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_7",
+				"prenom": "User first name 7",
+				"nom": "User last name 7",
+				"filiere": "Civil Engineering",
+				"email": "user7@example.com",
+				"age": 26
+			},
+			"sceance": {
+				"id": "seance_id_3",
+				"date_debut": "2024-04-02T10:00:00",
+				"date_fin": "2024-04-02T12:00:00",
+				"date_sceance": "2024-04-02",
+				"cours": {
+					"id": "cours_id_3",
+					"nom": "Chemistry",
+					"user_id": "user_id_4"
+				}
+			},
+			"cours_id": "cours_id_3",
+			"status": "en attente"
+		},
+		"absence_id_4": {
+			"id": "absence_id_4",
+			"date_absence": "2024-04-04",
+			"justification": "Absent due to medical appointment",
+			"user": {
+				"id": "user_id_10",
+				"prenom": "User first name 10",
+				"nom": "User last name 10",
+				"filiere": "Electrical Engineering",
+				"email": "user10@example.com",
+				"age": 23
+			},
+			"sceance": {
+				"id": "seance_id_4",
+				"date_debut": "2024-04-03T11:00:00",
+				"date_fin": "2024-04-03T13:00:00",
+				"date_sceance": "2024-04-03",
+				"cours": {
+					"id": "cours_id_4",
+					"nom": "Biology",
+					"user_id": "user_id_6"
+				}
+			},
+			"cours_id": "cours_id_4",
+			"status": "Justifié"
+		},
+		"absence_id_5": {
+			"id": "absence_id_5",
+			"date_absence": "2024-04-05",
+			"justification": "Absent due to transportation issues",
+			"user": {
+				"id": "user_id_13",
+				"prenom": "User first name 13",
+				"nom": "User last name 13",
+				"filiere": "Electrical Engineering",
+				"email": "user13@example.com",
+				"age": 28
+			},
+			"sceance": {
+				"id": "seance_id_5",
+				"date_debut": "2024-04-04T12:00:00",
+				"date_fin": "2024-04-04T14:00:00",
+				"date_sceance": "2024-04-04",
+				"cours": {
+					"id": "cours_id_5",
+					"nom": "Computer Science",
+					"user_id": "user_id_8"
+				}
+			},
+			"cours_id": "cours_id_5",
+			"status": "Non Justifié"
+		},
+		"absence_id_6": {
+			"id": "absence_id_6",
+			"date_absence": "2024-04-06",
+			"justification": "Absent due to exam preparation",
+			"user": {
+				"id": "user_id_16",
+				"prenom": "User first name 16",
+				"nom": "User last name 16",
+				"filiere": "Mathematics",
+				"email": "user16@example.com",
+				"age": 22
+			},
+			"sceance": {
+				"id": "seance_id_6",
+				"date_debut": "2024-04-05T13:00:00",
+				"date_fin": "2024-04-05T15:00:00",
+				"date_sceance": "2024-04-05",
+				"cours": {
+					"id": "cours_id_6",
+					"nom": "Engineering",
+					"user_id": "user_id_11"
+				}
+			},
+			"cours_id": "cours_id_6",
+			"status": "en attente"
+		},
+		"absence_id_7": {
+			"id": "absence_id_7",
+			"date_absence": "2024-04-07",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_19",
+				"prenom": "User first name 19",
+				"nom": "User last name 19",
+				"filiere": "Electrical Engineering",
+				"email": "user19@example.com",
+				"age": 27
+			},
+			"sceance": {
+				"id": "seance_id_7",
+				"date_debut": "2024-04-06T14:00:00",
+				"date_fin": "2024-04-06T16:00:00",
+				"date_sceance": "2024-04-06",
+				"cours": {
+					"id": "cours_id_7",
+					"nom": "Physics",
+					"user_id": "user_id_13"
+				}
+			},
+			"cours_id": "cours_id_7",
+			"status": "Justifié"
+		},
+		"absence_id_8": {
+			"id": "absence_id_8",
+			"date_absence": "2024-04-08",
+			"justification": "Absent due to family event",
+			"user": {
+				"id": "user_id_23",
+				"prenom": "User first name 23",
+				"nom": "User last name 23",
+				"filiere": "Computer Science",
+				"email": "user23@example.com",
+				"age": 24
+			},
+			"sceance": {
+				"id": "seance_id_8",
+				"date_debut": "2024-04-07T15:00:00",
+				"date_fin": "2024-04-07T17:00:00",
+				"date_sceance": "2024-04-07",
+				"cours": {
+					"id": "cours_id_8",
+					"nom": "Mathematics",
+					"user_id": "user_id_16"
+				}
+			},
+			"cours_id": "cours_id_8",
+			"status": "Non Justifié"
+		},
+		"absence_id_9": {
+			"id": "absence_id_9",
+			"date_absence": "2024-04-09",
+			"justification": "Absent due to technical issues",
+			"user": {
+				"id": "user_id_26",
+				"prenom": "User first name 26",
+				"nom": "User last name 26",
+				"filiere": "Civil Engineering",
+				"email": "user26@example.com",
+				"age": 30
+			},
+			"sceance": {
+				"id": "seance_id_9",
+				"date_debut": "2024-04-08T16:00:00",
+				"date_fin": "2024-04-08T18:00:00",
+				"date_sceance": "2024-04-08",
+				"cours": {
+					"id": "cours_id_9",
+					"nom": "Chemistry",
+					"user_id": "user_id_17"
+				}
+			},
+			"cours_id": "cours_id_9",
+			"status": "en attente"
+		},
+		"absence_id_10": {
+			"id": "absence_id_10",
+			"date_absence": "2024-04-10",
+			"justification": "Absent due to unexpected circumstances",
+			"user": {
+				"id": "user_id_29",
+				"prenom": "User first name 29",
+				"nom": "User last name 29",
+				"filiere": "Computer Science",
+				"email": "user29@example.com",
+				"age": 31
+			},
+			"sceance": {
+				"id": "seance_id_10",
+				"date_debut": "2024-04-09T17:00:00",
+				"date_fin": "2024-04-09T19:00:00",
+				"date_sceance": "2024-04-09",
+				"cours": {
+					"id": "cours_id_10",
+					"nom": "Physics",
+					"user_id": "user_id_14"
+				}
+			},
+			"cours_id": "cours_id_10",
+			"status": "Justifié"
+		},
+		"absence_id_11": {
+			"id": "absence_id_11",
+			"date_absence": "2024-04-11",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_32",
+				"prenom": "User first name 32",
+				"nom": "User last name 32",
+				"filiere": "Mechanical Engineering",
+				"email": "user32@example.com",
+				"age": 28
+			},
+			"sceance": {
+				"id": "seance_id_11",
+				"date_debut": "2024-04-10T18:00:00",
+				"date_fin": "2024-04-10T20:00:00",
+				"date_sceance": "2024-04-10",
+				"cours": {
+					"id": "cours_id_11",
+					"nom": "Engineering",
+					"user_id": "user_id_11"
+				}
+			},
+			"cours_id": "cours_id_11",
+			"status": "Non Justifié"
+		},
+		"absence_id_12": {
+			"id": "absence_id_12",
+			"date_absence": "2024-04-12",
+			"justification": "Absent due to transportation issues",
+			"user": {
+				"id": "user_id_35",
+				"prenom": "User first name 35",
+				"nom": "User last name 35",
+				"filiere": "Electrical Engineering",
+				"email": "user35@example.com",
+				"age": 26
+			},
+			"sceance": {
+				"id": "seance_id_12",
+				"date_debut": "2024-04-11T19:00:00",
+				"date_fin": "2024-04-11T21:00:00",
+				"date_sceance": "2024-04-11",
+				"cours": {
+					"id": "cours_id_12",
+					"nom": "Computer Science",
+					"user_id": "user_id_8"
+				}
+			},
+			"cours_id": "cours_id_12",
+			"status": "en attente"
+		},
+		"absence_id_13": {
+			"id": "absence_id_13",
+			"date_absence": "2024-04-13",
+			"justification": "Absent due to illness",
+			"user": {
+				"id": "user_id_38",
+				"prenom": "User first name 38",
+				"nom": "User last name 38",
+				"filiere": "Mathematics",
+				"email": "user38@example.com",
+				"age": 24
+			},
+			"sceance": {
+				"id": "seance_id_13",
+				"date_debut": "2024-04-12T20:00:00",
+				"date_fin": "2024-04-12T22:00:00",
+				"date_sceance": "2024-04-12",
+				"cours": {
+					"id": "cours_id_13",
+					"nom": "Biology",
+					"user_id": "user_id_6"
+				}
+			},
+			"cours_id": "cours_id_13",
+			"status": "Justifié"
+		},
+		"absence_id_14": {
+			"id": "absence_id_14",
+			"date_absence": "2024-04-14",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_41",
+				"prenom": "User first name 41",
+				"nom": "User last name 41",
+				"filiere": "Computer Science",
+				"email": "user41@example.com",
+				"age": 27
+			},
+			"sceance": {
+				"id": "seance_id_14",
+				"date_debut": "2024-04-13T21:00:00",
+				"date_fin": "2024-04-13T23:00:00",
+				"date_sceance": "2024-04-13",
+				"cours": {
+					"id": "cours_id_14",
+					"nom": "Chemistry",
+					"user_id": "user_id_17"
+				}
+			},
+			"cours_id": "cours_id_14",
+			"status": "Non Justifié"
+		},
+		"absence_id_15": {
+			"id": "absence_id_15",
+			"date_absence": "2024-04-15",
+			"justification": "Absent due to family emergency",
+			"user": {
+				"id": "user_id_44",
+				"prenom": "User first name 44",
+				"nom": "User last name 44",
+				"filiere": "Civil Engineering",
+				"email": "user44@example.com",
+				"age": 25
+			},
+			"sceance": {
+				"id": "seance_id_15",
+				"date_debut": "2024-04-14T22:00:00",
+				"date_fin": "2024-04-15T00:00:00",
+				"date_sceance": "2024-04-14",
+				"cours": {
+					"id": "cours_id_15",
+					"nom": "Physics",
+					"user_id": "user_id_13"
+				}
+			},
+			"cours_id": "cours_id_15",
+			"status": "en attente"
+		},
+		"absence_id_16": {
+			"id": "absence_id_16",
+			"date_absence": "2024-04-16",
+			"justification": "Absent due to technical issues",
+			"user": {
+				"id": "user_id_47",
+				"prenom": "User first name 47",
+				"nom": "User last name 47",
+				"filiere": "Mechanical Engineering",
+				"email": "user47@example.com",
+				"age": 29
+			},
+			"sceance": {
+				"id": "seance_id_16",
+				"date_debut": "2024-04-15T23:00:00",
+				"date_fin": "2024-04-16T01:00:00",
+				"date_sceance": "2024-04-15",
+				"cours": {
+					"id": "cours_id_16",
+					"nom": "Engineering",
+					"user_id": "user_id_11"
+				}
+			},
+			"cours_id": "cours_id_16",
+			"status": "en attente"
+		},
+		"absence_id_17": {
+			"id": "absence_id_17",
+			"date_absence": "2024-04-17",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_13",
+				"prenom": "User first name 13",
+				"nom": "User last name 13",
+				"filiere": "Electrical Engineering",
+				"email": "user13@example.com",
+				"age": 28
+			},
+			"sceance": {
+				"id": "seance_id_17",
+				"date_debut": "2024-04-16T00:00:00",
+				"date_fin": "2024-04-16T02:00:00",
+				"date_sceance": "2024-04-16",
+				"cours": {
+					"id": "cours_id_12",
+					"nom": "Art",
+					"user_id": "user_id_3"
+				}
+			},
+			"cours_id": "cours_id_17",
+			"status": "Justifié"
+		},
+		"absence_id_18": {
+			"id": "absence_id_18",
+			"date_absence": "2024-04-18",
+			"justification": "Absent due to illness",
+			"user": {
+				"id": "user_id_16",
+				"prenom": "User first name 16",
+				"nom": "User last name 16",
+				"filiere": "Mathematics",
+				"email": "user16@example.com",
+				"age": 22
+			},
+			"sceance": {
+				"id": "seance_id_18",
+				"date_debut": "2024-04-17T01:00:00",
+				"date_fin": "2024-04-17T03:00:00",
+				"date_sceance": "2024-04-17",
+				"cours": {
+					"id": "cours_id_19",
+					"nom": "Languages",
+					"user_id": "user_id_16"
+				}
+			},
+			"cours_id": "cours_id_18",
+			"status": "Non Justifié"
+		},
+		"absence_id_19": {
+			"id": "absence_id_19",
+			"date_absence": "2024-04-19",
+			"justification": "Absent due to personal reasons",
+			"user": {
+				"id": "user_id_19",
+				"prenom": "User first name 19",
+				"nom": "User last name 19",
+				"filiere": "Electrical Engineering",
+				"email": "user19@example.com",
+				"age": 27
+			},
+			"sceance": {
+				"id": "seance_id_19",
+				"date_debut": "2024-04-18T02:00:00",
+				"date_fin": "2024-04-18T04:00:00",
+				"date_sceance": "2024-04-18",
+				"cours": {
+					"id": "cours_id_19",
+					"nom": "Languages",
+					"user_id": "user_id_16"
+				}
+			},
+			"cours_id": "cours_id_19",
+			"status": "en attente"
+		},
+		"absence_id_20": {
+			"id": "absence_id_20",
+			"date_absence": "2024-04-20",
+			"justification": "Absent due to family event",
+			"user": {
+				"id": "user_id_19",
+				"prenom": "User first name 19",
+				"nom": "User last name 19",
+				"filiere": "Electrical Engineering",
+				"email": "user19@example.com",
+				"age": 27
+			},
+			"sceance": {
+				"id": "seance_id_20",
+				"date_debut": "2024-04-19T03:00:00",
+				"date_fin": "2024-04-19T05:00:00",
+				"date_sceance": "2024-04-19",
+				"cours": {
+					"id": "cours_id_20",
+					"nom": "Statistics",
+					"user_id": "user_id_18"
+				}
+			},
+			"cours_id": "cours_id_20",
+			"status": "Justifié"
+		}
+	}
+}

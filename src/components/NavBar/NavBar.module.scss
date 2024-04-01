@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+.green {
+	padding: 0.45rem 0.75rem;
+	background: #dcfce7;
+	font-size: 1rem;
+	border-radius: 5px;
+	color: #166534;
+	font-weight: 400;
+}
+.user {
+	svg {
+		width: 20px;
+		height: 20px;
+	}
+}
+
+.logout {
+	// padding: 0.5rem 1rem;
+	background: #b91c1c;
+
+	border-radius: 5px;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.7rem !important;
+	cursor: pointer;
+	svg {
+		stroke-width: 2.5;
+	}
+}
+
+.container {
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	border-bottom: #bc4a00 4px solid;
+	background-color: white;
+
+	header {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 1.5rem 1rem;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		img {
+			width: 60px;
+		}
+	}
+
+	ul {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+	}
+	nav .nav {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		li {
+			cursor: pointer !important;
+			padding: 0.4rem 1.25rem;
+			border-radius: 0.375rem;
+
+			&.clicked {
+				background-color: #bc4a00;
+				color: white;
+			}
+			&:hover {
+				background-color: #bc4a00;
+				color: white;
+				// opacity: 0.7;
+			}
+		}
+	}
+}
